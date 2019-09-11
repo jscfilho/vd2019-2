@@ -11,7 +11,7 @@
 [index09.html](basic/index09.html)<br>
 [index10.html](basic/index10.html)<br>
 
-## Aula do dia 04/09/2019 Intro D3
+## Aula do dia 04/09/2019 - D3 Intro
 [notebook.html](d3_intro/notebook.html)<br>
 
 ---
