@@ -1,5 +1,5 @@
 ## Aula do dia 11/09/2019 - D3 scale
-[.html](d3_scale/scatterplot.html)<br>
+[scatterplot.html](d3_scale/scatterplot.html)<br>
 
 ## Aula do dia 04/09/2019 - D3 Intro
 [notebook.html](d3_intro/notebook.html)<br>
