@@ -1,0 +1,14 @@
+{
+  "name": "@jscfilho/d3-com-crossfilter-e-leaflet",
+  "main": "d/ba93ec00416714da.js",
+  "version": "162.0.0",
+  "homepage": "https://observablehq.com/@jscfilho/d3-com-crossfilter-e-leaflet",
+  "author": {
+    "name": "jscfilho",
+    "url": "https://observablehq.com/@jscfilho"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
