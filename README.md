@@ -1,6 +1,6 @@
 ## Aula do dia 30/09/2019 - D3 leaflet
-[index.html](d3_leaflet/eq_nz/index.html)<br>
-[index.html](d3_leaflet/chicago_crime/index.html)<br>
+[earthquake.html](d3_leaflet/eq_nz/index.html)<br>
+[chicago_crime.html](d3_leaflet/chicago_crime/index.html)<br>
 
 ## Aula do dia 25/09/2019 - D3 crossfilter 2
 [index.html](d3_crossfilter_2/index.html)<br>
