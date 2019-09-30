@@ -1,3 +1,6 @@
+## Aula do dia 23/09/2019 - D3 crossfilter
+[index.html](d3_crossfilter/index.html)<br>
+
 ## Aula do dia 16/09/2019 - D3 update
 [scatterplot.html](d3_update/scatterplot.html)<br>
 
