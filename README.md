@@ -1,3 +1,7 @@
+##Aula do dia 16/10/2019 -Cores em D3
+[homicidio_fortaleza.html](d3_color/homicidio_fortaleza/index.html)<br>
+[desemprego_eua.html](d3_color/desemprego_eua/index.html)<br>
+
 ## Aula do dia 30/09/2019 - D3 leaflet
 [earthquake.html](d3_leaflet/new_zealand/index.html)<br>
 [chicago_crime.html](d3_leaflet/chicago/index.html)<br>
