@@ -1,0 +1,14 @@
+{
+  "name": "@jscfilho/similar-song-network",
+  "main": "d/b1ef61b7e22cc15d.js",
+  "version": "62.0.0",
+  "homepage": "https://observablehq.com/@jscfilho/similar-song-network",
+  "author": {
+    "name": "jscfilho",
+    "url": "https://observablehq.com/@jscfilho"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
