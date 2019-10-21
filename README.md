@@ -2,6 +2,10 @@
 [homicidios_fortaleza.html](d3_color/homicidios_fortaleza/index.html)<br>
 [desemprego_eua.html](d3_color/desemprego_eua/index.html)<br>
 
+## Aula do dia 09/10/2019 - Networks e árvores em D3
+[similar_song_network.html](d3_network/ex1/index.html)<br>
+[les_miserables.html](d3_network/ex2/index.html)<br>
+
 ## Aula do dia 30/09/2019 - D3 leaflet
 [earthquake.html](d3_leaflet/new_zealand/index.html)<br>
 [chicago_crime.html](d3_leaflet/chicago/index.html)<br>
