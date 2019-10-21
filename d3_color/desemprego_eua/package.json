@@ -1,0 +1,14 @@
+{
+  "name": "@jscfilho/taxa-de-desemprego-nos-eua-em-agosto-de-2016",
+  "main": "d/2ffac2847c7d3d74.js",
+  "version": "61.0.0",
+  "homepage": "https://observablehq.com/@jscfilho/taxa-de-desemprego-nos-eua-em-agosto-de-2016",
+  "author": {
+    "name": "jscfilho",
+    "url": "https://observablehq.com/@jscfilho"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

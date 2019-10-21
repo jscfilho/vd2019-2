@@ -1,0 +1,14 @@
+{
+  "name": "@jscfilho/homicidios-em-fortaleza-em-2012",
+  "main": "@jscfilho/homicidios-em-fortaleza-em-2012.js",
+  "version": "84.0.0",
+  "homepage": "https://observablehq.com/@jscfilho/homicidios-em-fortaleza-em-2012",
+  "author": {
+    "name": "jscfilho",
+    "url": "https://observablehq.com/@jscfilho"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
