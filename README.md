@@ -1,5 +1,5 @@
 ## Aula do dia 16/10/2019 - Cores em D3
-[homicidios_fortaleza.html](d3_color/homicidio_fortaleza/index.html)<br>
+[homicidios_fortaleza.html](d3_color/homicidios_fortaleza/index.html)<br>
 [desemprego_eua.html](d3_color/desemprego_eua/index.html)<br>
 
 ## Aula do dia 30/09/2019 - D3 leaflet
