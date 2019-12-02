@@ -1,6 +1,8 @@
 # Projeto Final de VD - 2019
 
-https://observablehq.com/@jscfilho/projeto-final-de-vd-2019@585
+Link direto: https://jscfilho.github.io/vd2019-2/final_project/index.html
+
+Link para notebook: https://observablehq.com/@jscfilho/projeto-final-de-vd-2019@585
 
 View this notebook in your browser by running a web server in this folder. For
 example:
