@@ -1,0 +1,14 @@
+{
+  "name": "@jscfilho/projeto-final-de-vd-2019",
+  "main": "6f25c80bb75bd44d@584.js",
+  "version": "584.0.0",
+  "homepage": "https://observablehq.com/@jscfilho/projeto-final-de-vd-2019",
+  "author": {
+    "name": "jscfilho",
+    "url": "https://observablehq.com/@jscfilho"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
